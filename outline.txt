@@ -1,0 +1,5 @@
+outline data analysis
+1. read in raw data
+2. pre-process data 
+3. analyse subject level
+4. analyse group level
